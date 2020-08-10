@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: adc5c447ab3c9d74db300f78e7df5b51
+guid: 43e51548bc3420244a2e1534a15046ec
 TrueTypeFontImporter:
   externalObjects: {}
   serializedVersion: 4
@@ -8,9 +8,9 @@ TrueTypeFontImporter:
   characterSpacing: 0
   characterPadding: 1
   includeFontData: 1
-  fontName: KenVector Future
+  fontName: Bahiana
   fontNames:
-  - KenVector Future
+  - Bahiana
   fallbackFontReferences: []
   customCharacters: 
   fontRenderingMode: 0
