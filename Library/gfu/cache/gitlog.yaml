@@ -13,9 +13,1396 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2020-08-10T18:27:43.081+05:00
+  lastUpdatedAtString: 2020-08-10T20:24:21.101+05:00
   initializedAtString: 2020-08-10T18:24:43.084+05:00
   log:
+  - commitID: 27267cbad32eb2c732eb5c4f39659eee1d53b89e
+    mergeA: 
+    mergeB: 
+    authorName: AdmiralSlowpoke
+    authorEmail: maksimzlt@gmail.com
+    commitEmail: maksimzlt@gmail.com
+    commitName: AdmiralSlowpoke
+    summary: Level Selection
+    description: "\u0412\u044B\u0431\u043E\u0440 \u0443\u0440\u043E\u0432\u043D\u044F"
+    timeString: 2020-08-10T20:24:18.000+05:00
+    commitTimeString: 2020-08-10T20:24:18.000+05:00
+    changes:
+    - path: Assets\Animations\ClickPlay.anim
+      fullPath: C:\Users\Maxim\Test Project\Assets\Animations\ClickPlay.anim
+      projectPath: Assets\Animations\ClickPlay.anim
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Animations\ClickPlay.anim.meta
+      fullPath: C:\Users\Maxim\Test Project\Assets\Animations\ClickPlay.anim.meta
+      projectPath: Assets\Animations\ClickPlay.anim.meta
+      originalPath: Assets\Animations\FromPlayToLevel.anim.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Assets\Animations\FromPlayToLevel.anim
+      fullPath: C:\Users\Maxim\Test Project\Assets\Animations\FromPlayToLevel.anim
+      projectPath: Assets\Animations\FromPlayToLevel.anim
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets\Animations\LevelScreen.controller
+      fullPath: C:\Users\Maxim\Test Project\Assets\Animations\LevelScreen.controller
+      projectPath: Assets\Animations\LevelScreen.controller
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Animations\LevelScreen.controller.meta
+      fullPath: C:\Users\Maxim\Test Project\Assets\Animations\LevelScreen.controller.meta
+      projectPath: Assets\Animations\LevelScreen.controller.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Animations\LoadLevels.anim
+      fullPath: C:\Users\Maxim\Test Project\Assets\Animations\LoadLevels.anim
+      projectPath: Assets\Animations\LoadLevels.anim
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Animations\LoadLevels.anim.meta
+      fullPath: C:\Users\Maxim\Test Project\Assets\Animations\LoadLevels.anim.meta
+      projectPath: Assets\Animations\LoadLevels.anim.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Animations\PlayScreen.controller
+      fullPath: C:\Users\Maxim\Test Project\Assets\Animations\PlayScreen.controller
+      projectPath: Assets\Animations\PlayScreen.controller
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\LevelButton.cs
+      fullPath: C:\Users\Maxim\Test Project\Assets\LevelButton.cs
+      projectPath: Assets\LevelButton.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\LevelButton.cs.meta
+      fullPath: C:\Users\Maxim\Test Project\Assets\LevelButton.cs.meta
+      projectPath: Assets\LevelButton.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\LevelButtons.cs
+      fullPath: C:\Users\Maxim\Test Project\Assets\LevelButtons.cs
+      projectPath: Assets\LevelButtons.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\LevelButtons.cs.meta
+      fullPath: C:\Users\Maxim\Test Project\Assets\LevelButtons.cs.meta
+      projectPath: Assets\LevelButtons.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Particle System.prefab
+      fullPath: C:\Users\Maxim\Test Project\Assets\Prefabs\Particle System.prefab
+      projectPath: Assets\Prefabs\Particle System.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Particle System.prefab.meta
+      fullPath: C:\Users\Maxim\Test Project\Assets\Prefabs\Particle System.prefab.meta
+      projectPath: Assets\Prefabs\Particle System.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\UI_Prefab\LevelButton.prefab
+      fullPath: C:\Users\Maxim\Test Project\Assets\Prefabs\UI_Prefab\LevelButton.prefab
+      projectPath: Assets\Prefabs\UI_Prefab\LevelButton.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\UI_Prefab\LevelButton.prefab.meta
+      fullPath: C:\Users\Maxim\Test Project\Assets\Prefabs\UI_Prefab\LevelButton.prefab.meta
+      projectPath: Assets\Prefabs\UI_Prefab\LevelButton.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\UI_Prefab\PlayButton.prefab
+      fullPath: C:\Users\Maxim\Test Project\Assets\Prefabs\UI_Prefab\PlayButton.prefab
+      projectPath: Assets\Prefabs\UI_Prefab\PlayButton.prefab
+      originalPath: Assets\Prefabs\UI_Prefab\Button.prefab
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Assets\Prefabs\UI_Prefab\PlayButton.prefab.meta
+      fullPath: C:\Users\Maxim\Test Project\Assets\Prefabs\UI_Prefab\PlayButton.prefab.meta
+      projectPath: Assets\Prefabs\UI_Prefab\PlayButton.prefab.meta
+      originalPath: Assets\Prefabs\UI_Prefab\Button.prefab.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Assets\Scenes\Game.unity
+      fullPath: C:\Users\Maxim\Test Project\Assets\Scenes\Game.unity
+      projectPath: Assets\Scenes\Game.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Game.unity.meta
+      fullPath: C:\Users\Maxim\Test Project\Assets\Scenes\Game.unity.meta
+      projectPath: Assets\Scenes\Game.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Menu.unity
+      fullPath: C:\Users\Maxim\Test Project\Assets\Scenes\Menu.unity
+      projectPath: Assets\Scenes\Menu.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scripts.meta
+      fullPath: C:\Users\Maxim\Test Project\Assets\Scripts.meta
+      projectPath: Assets\Scripts.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: b08238c6d20eb4c0f2cacdfdca3281660dceab7f
+    mergeA: 
+    mergeB: 
+    authorName: AdmiralSlowpoke
+    authorEmail: maksimzlt@gmail.com
+    commitEmail: maksimzlt@gmail.com
+    commitName: AdmiralSlowpoke
+    summary: Animations
+    description: "\u0410\u043D\u0438\u043C\u0430\u0446\u0438\u0438"
+    timeString: 2020-08-10T19:23:21.000+05:00
+    commitTimeString: 2020-08-10T19:23:21.000+05:00
+    changes:
+    - path: Assets\Animations\FromPlayToLevel.anim
+      fullPath: C:\Users\Maxim\Test Project\Assets\Animations\FromPlayToLevel.anim
+      projectPath: Assets\Animations\FromPlayToLevel.anim
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Animations\FromPlayToLevel.anim.meta
+      fullPath: C:\Users\Maxim\Test Project\Assets\Animations\FromPlayToLevel.anim.meta
+      projectPath: Assets\Animations\FromPlayToLevel.anim.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Animations\PlayScreen.controller
+      fullPath: C:\Users\Maxim\Test Project\Assets\Animations\PlayScreen.controller
+      projectPath: Assets\Animations\PlayScreen.controller
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Animations\PlayScreen.controller.meta
+      fullPath: C:\Users\Maxim\Test Project\Assets\Animations\PlayScreen.controller.meta
+      projectPath: Assets\Animations\PlayScreen.controller.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: f0990e7f68b8601fd1b60a7447c46f7c1c1d35bc
+    mergeA: 
+    mergeB: 
+    authorName: AdmiralSlowpoke
+    authorEmail: maksimzlt@gmail.com
+    commitEmail: maksimzlt@gmail.com
+    commitName: AdmiralSlowpoke
+    summary: Background v2
+    description: "\u0418\u0437\u043C\u0435\u043D\u0438\u043B \u0432\u043D\u0435\u0448\u043D\u0438\u0439
+      \u0432\u0438\u0434 \u0437\u0432\u0451\u0437\u0434"
+    timeString: 2020-08-10T19:22:59.000+05:00
+    commitTimeString: 2020-08-10T19:22:59.000+05:00
+    changes:
+    - path: ProjectSettings\QualitySettings.asset
+      fullPath: C:\Users\Maxim\Test Project\ProjectSettings\QualitySettings.asset
+      projectPath: ProjectSettings\QualitySettings.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: ProjectSettings\UnityConnectSettings.asset
+      fullPath: C:\Users\Maxim\Test Project\ProjectSettings\UnityConnectSettings.asset
+      projectPath: ProjectSettings\UnityConnectSettings.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: 524360deec6eb6295b8b0ee96fa04c29fc529633
+    mergeA: 
+    mergeB: 
+    authorName: AdmiralSlowpoke
+    authorEmail: maksimzlt@gmail.com
+    commitEmail: maksimzlt@gmail.com
+    commitName: AdmiralSlowpoke
+    summary: Background
+    description: "\u0417\u0430\u0434\u043D\u0438\u043A \u0434\u043B\u044F \u043C\u0435\u043D\u044E"
+    timeString: 2020-08-10T19:13:27.000+05:00
+    commitTimeString: 2020-08-10T19:13:27.000+05:00
+    changes:
+    - path: Assets\Animations.meta
+      fullPath: C:\Users\Maxim\Test Project\Assets\Animations.meta
+      projectPath: Assets\Animations.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Animations\SpaceShip.controller
+      fullPath: C:\Users\Maxim\Test Project\Assets\Animations\SpaceShip.controller
+      projectPath: Assets\Animations\SpaceShip.controller
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Animations\SpaceShip.controller.meta
+      fullPath: C:\Users\Maxim\Test Project\Assets\Animations\SpaceShip.controller.meta
+      projectPath: Assets\Animations\SpaceShip.controller.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Animations\SpaceShipMenuIdle.anim
+      fullPath: C:\Users\Maxim\Test Project\Assets\Animations\SpaceShipMenuIdle.anim
+      projectPath: Assets\Animations\SpaceShipMenuIdle.anim
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Animations\SpaceShipMenuIdle.anim.meta
+      fullPath: C:\Users\Maxim\Test Project\Assets\Animations\SpaceShipMenuIdle.anim.meta
+      projectPath: Assets\Animations\SpaceShipMenuIdle.anim.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fonts\Bahiana-Regular.otf
+      fullPath: C:\Users\Maxim\Test Project\Assets\Fonts\Bahiana-Regular.otf
+      projectPath: Assets\Fonts\Bahiana-Regular.otf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fonts\Bahiana-Regular.otf.meta
+      fullPath: C:\Users\Maxim\Test Project\Assets\Fonts\Bahiana-Regular.otf.meta
+      projectPath: Assets\Fonts\Bahiana-Regular.otf.meta
+      originalPath: Assets\Fonts\kenvector_future.ttf.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Assets\Fonts\kenvector_future.ttf
+      fullPath: C:\Users\Maxim\Test Project\Assets\Fonts\kenvector_future.ttf
+      projectPath: Assets\Fonts\kenvector_future.ttf
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets\Fonts\kenvector_future_thin.ttf
+      fullPath: C:\Users\Maxim\Test Project\Assets\Fonts\kenvector_future_thin.ttf
+      projectPath: Assets\Fonts\kenvector_future_thin.ttf
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets\Fonts\kenvector_future_thin.ttf.meta
+      fullPath: C:\Users\Maxim\Test Project\Assets\Fonts\kenvector_future_thin.ttf.meta
+      projectPath: Assets\Fonts\kenvector_future_thin.ttf.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets\Models.meta
+      fullPath: C:\Users\Maxim\Test Project\Assets\Models.meta
+      projectPath: Assets\Models.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Models\spaceCraft2_N.png
+      fullPath: C:\Users\Maxim\Test Project\Assets\Models\spaceCraft2_N.png
+      projectPath: Assets\Models\spaceCraft2_N.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Models\spaceCraft2_N.png.meta
+      fullPath: C:\Users\Maxim\Test Project\Assets\Models\spaceCraft2_N.png.meta
+      projectPath: Assets\Models\spaceCraft2_N.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs.meta
+      fullPath: C:\Users\Maxim\Test Project\Assets\Prefabs.meta
+      projectPath: Assets\Prefabs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\UI_Prefab.meta
+      fullPath: C:\Users\Maxim\Test Project\Assets\Prefabs\UI_Prefab.meta
+      projectPath: Assets\Prefabs\UI_Prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\UI_Prefab\Button.prefab
+      fullPath: C:\Users\Maxim\Test Project\Assets\Prefabs\UI_Prefab\Button.prefab
+      projectPath: Assets\Prefabs\UI_Prefab\Button.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\UI_Prefab\Button.prefab.meta
+      fullPath: C:\Users\Maxim\Test Project\Assets\Prefabs\UI_Prefab\Button.prefab.meta
+      projectPath: Assets\Prefabs\UI_Prefab\Button.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Menu.unity
+      fullPath: C:\Users\Maxim\Test Project\Assets\Scenes\Menu.unity
+      projectPath: Assets\Scenes\Menu.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: 213b965d9385aedc3eb815c16d06865bf2c58f9a
+    mergeA: 
+    mergeB: 
+    authorName: AdmiralSlowpoke
+    authorEmail: maksimzlt@gmail.com
+    commitEmail: maksimzlt@gmail.com
+    commitName: AdmiralSlowpoke
+    summary: "\u0414\u043E\u0431\u0430\u0432\u043B\u0435\u043D\u0438\u0435 UI"
+    description: UI
+    timeString: 2020-08-10T18:33:43.000+05:00
+    commitTimeString: 2020-08-10T18:33:43.000+05:00
+    changes:
+    - path: Assets\Fonts.meta
+      fullPath: C:\Users\Maxim\Test Project\Assets\Fonts.meta
+      projectPath: Assets\Fonts.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fonts\kenvector_future.ttf
+      fullPath: C:\Users\Maxim\Test Project\Assets\Fonts\kenvector_future.ttf
+      projectPath: Assets\Fonts\kenvector_future.ttf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fonts\kenvector_future.ttf.meta
+      fullPath: C:\Users\Maxim\Test Project\Assets\Fonts\kenvector_future.ttf.meta
+      projectPath: Assets\Fonts\kenvector_future.ttf.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fonts\kenvector_future_thin.ttf
+      fullPath: C:\Users\Maxim\Test Project\Assets\Fonts\kenvector_future_thin.ttf
+      projectPath: Assets\Fonts\kenvector_future_thin.ttf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fonts\kenvector_future_thin.ttf.meta
+      fullPath: C:\Users\Maxim\Test Project\Assets\Fonts\kenvector_future_thin.ttf.meta
+      projectPath: Assets\Fonts\kenvector_future_thin.ttf.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI.meta
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI.meta
+      projectPath: Assets\UI.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\barHorizontal_blue_left.png
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\barHorizontal_blue_left.png
+      projectPath: Assets\UI\barHorizontal_blue_left.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\barHorizontal_blue_left.png.meta
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\barHorizontal_blue_left.png.meta
+      projectPath: Assets\UI\barHorizontal_blue_left.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\barHorizontal_blue_mid.png
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\barHorizontal_blue_mid.png
+      projectPath: Assets\UI\barHorizontal_blue_mid.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\barHorizontal_blue_mid.png.meta
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\barHorizontal_blue_mid.png.meta
+      projectPath: Assets\UI\barHorizontal_blue_mid.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\barHorizontal_blue_right.png
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\barHorizontal_blue_right.png
+      projectPath: Assets\UI\barHorizontal_blue_right.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\barHorizontal_blue_right.png.meta
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\barHorizontal_blue_right.png.meta
+      projectPath: Assets\UI\barHorizontal_blue_right.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\barHorizontal_green_left.png
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\barHorizontal_green_left.png
+      projectPath: Assets\UI\barHorizontal_green_left.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\barHorizontal_green_left.png.meta
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\barHorizontal_green_left.png.meta
+      projectPath: Assets\UI\barHorizontal_green_left.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\barHorizontal_green_mid.png
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\barHorizontal_green_mid.png
+      projectPath: Assets\UI\barHorizontal_green_mid.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\barHorizontal_green_mid.png.meta
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\barHorizontal_green_mid.png.meta
+      projectPath: Assets\UI\barHorizontal_green_mid.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\barHorizontal_green_right.png
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\barHorizontal_green_right.png
+      projectPath: Assets\UI\barHorizontal_green_right.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\barHorizontal_green_right.png.meta
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\barHorizontal_green_right.png.meta
+      projectPath: Assets\UI\barHorizontal_green_right.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\barHorizontal_red_left.png
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\barHorizontal_red_left.png
+      projectPath: Assets\UI\barHorizontal_red_left.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\barHorizontal_red_left.png.meta
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\barHorizontal_red_left.png.meta
+      projectPath: Assets\UI\barHorizontal_red_left.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\barHorizontal_red_mid.png
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\barHorizontal_red_mid.png
+      projectPath: Assets\UI\barHorizontal_red_mid.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\barHorizontal_red_mid.png.meta
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\barHorizontal_red_mid.png.meta
+      projectPath: Assets\UI\barHorizontal_red_mid.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\barHorizontal_red_right.png
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\barHorizontal_red_right.png
+      projectPath: Assets\UI\barHorizontal_red_right.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\barHorizontal_red_right.png.meta
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\barHorizontal_red_right.png.meta
+      projectPath: Assets\UI\barHorizontal_red_right.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\barHorizontal_shadow_left.png
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\barHorizontal_shadow_left.png
+      projectPath: Assets\UI\barHorizontal_shadow_left.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\barHorizontal_shadow_left.png.meta
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\barHorizontal_shadow_left.png.meta
+      projectPath: Assets\UI\barHorizontal_shadow_left.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\barHorizontal_shadow_mid.png
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\barHorizontal_shadow_mid.png
+      projectPath: Assets\UI\barHorizontal_shadow_mid.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\barHorizontal_shadow_mid.png.meta
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\barHorizontal_shadow_mid.png.meta
+      projectPath: Assets\UI\barHorizontal_shadow_mid.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\barHorizontal_shadow_right.png
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\barHorizontal_shadow_right.png
+      projectPath: Assets\UI\barHorizontal_shadow_right.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\barHorizontal_shadow_right.png.meta
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\barHorizontal_shadow_right.png.meta
+      projectPath: Assets\UI\barHorizontal_shadow_right.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\barHorizontal_white_left.png
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\barHorizontal_white_left.png
+      projectPath: Assets\UI\barHorizontal_white_left.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\barHorizontal_white_left.png.meta
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\barHorizontal_white_left.png.meta
+      projectPath: Assets\UI\barHorizontal_white_left.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\barHorizontal_white_mid.png
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\barHorizontal_white_mid.png
+      projectPath: Assets\UI\barHorizontal_white_mid.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\barHorizontal_white_mid.png.meta
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\barHorizontal_white_mid.png.meta
+      projectPath: Assets\UI\barHorizontal_white_mid.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\barHorizontal_white_right.png
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\barHorizontal_white_right.png
+      projectPath: Assets\UI\barHorizontal_white_right.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\barHorizontal_white_right.png.meta
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\barHorizontal_white_right.png.meta
+      projectPath: Assets\UI\barHorizontal_white_right.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\barHorizontal_yellow_left.png
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\barHorizontal_yellow_left.png
+      projectPath: Assets\UI\barHorizontal_yellow_left.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\barHorizontal_yellow_left.png.meta
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\barHorizontal_yellow_left.png.meta
+      projectPath: Assets\UI\barHorizontal_yellow_left.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\barHorizontal_yellow_mid.png
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\barHorizontal_yellow_mid.png
+      projectPath: Assets\UI\barHorizontal_yellow_mid.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\barHorizontal_yellow_mid.png.meta
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\barHorizontal_yellow_mid.png.meta
+      projectPath: Assets\UI\barHorizontal_yellow_mid.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\barHorizontal_yellow_right.png
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\barHorizontal_yellow_right.png
+      projectPath: Assets\UI\barHorizontal_yellow_right.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\barHorizontal_yellow_right.png.meta
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\barHorizontal_yellow_right.png.meta
+      projectPath: Assets\UI\barHorizontal_yellow_right.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\barVertical_blue_bottom.png
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\barVertical_blue_bottom.png
+      projectPath: Assets\UI\barVertical_blue_bottom.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\barVertical_blue_bottom.png.meta
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\barVertical_blue_bottom.png.meta
+      projectPath: Assets\UI\barVertical_blue_bottom.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\barVertical_blue_mid.png
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\barVertical_blue_mid.png
+      projectPath: Assets\UI\barVertical_blue_mid.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\barVertical_blue_mid.png.meta
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\barVertical_blue_mid.png.meta
+      projectPath: Assets\UI\barVertical_blue_mid.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\barVertical_blue_top.png
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\barVertical_blue_top.png
+      projectPath: Assets\UI\barVertical_blue_top.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\barVertical_blue_top.png.meta
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\barVertical_blue_top.png.meta
+      projectPath: Assets\UI\barVertical_blue_top.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\barVertical_green_bottom.png
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\barVertical_green_bottom.png
+      projectPath: Assets\UI\barVertical_green_bottom.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\barVertical_green_bottom.png.meta
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\barVertical_green_bottom.png.meta
+      projectPath: Assets\UI\barVertical_green_bottom.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\barVertical_green_mid.png
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\barVertical_green_mid.png
+      projectPath: Assets\UI\barVertical_green_mid.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\barVertical_green_mid.png.meta
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\barVertical_green_mid.png.meta
+      projectPath: Assets\UI\barVertical_green_mid.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\barVertical_green_top.png
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\barVertical_green_top.png
+      projectPath: Assets\UI\barVertical_green_top.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\barVertical_green_top.png.meta
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\barVertical_green_top.png.meta
+      projectPath: Assets\UI\barVertical_green_top.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\barVertical_red_bottom.png
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\barVertical_red_bottom.png
+      projectPath: Assets\UI\barVertical_red_bottom.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\barVertical_red_bottom.png.meta
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\barVertical_red_bottom.png.meta
+      projectPath: Assets\UI\barVertical_red_bottom.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\barVertical_red_mid.png
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\barVertical_red_mid.png
+      projectPath: Assets\UI\barVertical_red_mid.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\barVertical_red_mid.png.meta
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\barVertical_red_mid.png.meta
+      projectPath: Assets\UI\barVertical_red_mid.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\barVertical_red_top.png
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\barVertical_red_top.png
+      projectPath: Assets\UI\barVertical_red_top.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\barVertical_red_top.png.meta
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\barVertical_red_top.png.meta
+      projectPath: Assets\UI\barVertical_red_top.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\barVertical_shadow_bottom.png
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\barVertical_shadow_bottom.png
+      projectPath: Assets\UI\barVertical_shadow_bottom.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\barVertical_shadow_bottom.png.meta
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\barVertical_shadow_bottom.png.meta
+      projectPath: Assets\UI\barVertical_shadow_bottom.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\barVertical_shadow_mid.png
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\barVertical_shadow_mid.png
+      projectPath: Assets\UI\barVertical_shadow_mid.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\barVertical_shadow_mid.png.meta
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\barVertical_shadow_mid.png.meta
+      projectPath: Assets\UI\barVertical_shadow_mid.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\barVertical_shadow_top.png
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\barVertical_shadow_top.png
+      projectPath: Assets\UI\barVertical_shadow_top.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\barVertical_shadow_top.png.meta
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\barVertical_shadow_top.png.meta
+      projectPath: Assets\UI\barVertical_shadow_top.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\barVertical_white_bottom.png
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\barVertical_white_bottom.png
+      projectPath: Assets\UI\barVertical_white_bottom.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\barVertical_white_bottom.png.meta
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\barVertical_white_bottom.png.meta
+      projectPath: Assets\UI\barVertical_white_bottom.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\barVertical_white_mid.png
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\barVertical_white_mid.png
+      projectPath: Assets\UI\barVertical_white_mid.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\barVertical_white_mid.png.meta
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\barVertical_white_mid.png.meta
+      projectPath: Assets\UI\barVertical_white_mid.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\barVertical_white_top.png
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\barVertical_white_top.png
+      projectPath: Assets\UI\barVertical_white_top.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\barVertical_white_top.png.meta
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\barVertical_white_top.png.meta
+      projectPath: Assets\UI\barVertical_white_top.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\barVertical_yellow_bottom.png
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\barVertical_yellow_bottom.png
+      projectPath: Assets\UI\barVertical_yellow_bottom.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\barVertical_yellow_bottom.png.meta
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\barVertical_yellow_bottom.png.meta
+      projectPath: Assets\UI\barVertical_yellow_bottom.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\barVertical_yellow_mid.png
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\barVertical_yellow_mid.png
+      projectPath: Assets\UI\barVertical_yellow_mid.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\barVertical_yellow_mid.png.meta
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\barVertical_yellow_mid.png.meta
+      projectPath: Assets\UI\barVertical_yellow_mid.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\barVertical_yellow_top.png
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\barVertical_yellow_top.png
+      projectPath: Assets\UI\barVertical_yellow_top.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\barVertical_yellow_top.png.meta
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\barVertical_yellow_top.png.meta
+      projectPath: Assets\UI\barVertical_yellow_top.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\crossair_black.png
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\crossair_black.png
+      projectPath: Assets\UI\crossair_black.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\crossair_black.png.meta
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\crossair_black.png.meta
+      projectPath: Assets\UI\crossair_black.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\crossair_blackOutline.png
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\crossair_blackOutline.png
+      projectPath: Assets\UI\crossair_blackOutline.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\crossair_blackOutline.png.meta
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\crossair_blackOutline.png.meta
+      projectPath: Assets\UI\crossair_blackOutline.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\crossair_blue.png
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\crossair_blue.png
+      projectPath: Assets\UI\crossair_blue.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\crossair_blue.png.meta
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\crossair_blue.png.meta
+      projectPath: Assets\UI\crossair_blue.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\crossair_blueOutline.png
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\crossair_blueOutline.png
+      projectPath: Assets\UI\crossair_blueOutline.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\crossair_blueOutline.png.meta
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\crossair_blueOutline.png.meta
+      projectPath: Assets\UI\crossair_blueOutline.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\crossair_red.png
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\crossair_red.png
+      projectPath: Assets\UI\crossair_red.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\crossair_red.png.meta
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\crossair_red.png.meta
+      projectPath: Assets\UI\crossair_red.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\crossair_redOutline.png
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\crossair_redOutline.png
+      projectPath: Assets\UI\crossair_redOutline.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\crossair_redOutline.png.meta
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\crossair_redOutline.png.meta
+      projectPath: Assets\UI\crossair_redOutline.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\crossair_white.png
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\crossair_white.png
+      projectPath: Assets\UI\crossair_white.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\crossair_white.png.meta
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\crossair_white.png.meta
+      projectPath: Assets\UI\crossair_white.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\crossair_whiteOutline.png
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\crossair_whiteOutline.png
+      projectPath: Assets\UI\crossair_whiteOutline.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\crossair_whiteOutline.png.meta
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\crossair_whiteOutline.png.meta
+      projectPath: Assets\UI\crossair_whiteOutline.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\cursor_hand.png
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\cursor_hand.png
+      projectPath: Assets\UI\cursor_hand.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\cursor_hand.png.meta
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\cursor_hand.png.meta
+      projectPath: Assets\UI\cursor_hand.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\cursor_pointer3D.png
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\cursor_pointer3D.png
+      projectPath: Assets\UI\cursor_pointer3D.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\cursor_pointer3D.png.meta
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\cursor_pointer3D.png.meta
+      projectPath: Assets\UI\cursor_pointer3D.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\cursor_pointer3D_shadow.png
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\cursor_pointer3D_shadow.png
+      projectPath: Assets\UI\cursor_pointer3D_shadow.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\cursor_pointer3D_shadow.png.meta
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\cursor_pointer3D_shadow.png.meta
+      projectPath: Assets\UI\cursor_pointer3D_shadow.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\cursor_pointerFlat.png
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\cursor_pointerFlat.png
+      projectPath: Assets\UI\cursor_pointerFlat.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\cursor_pointerFlat.png.meta
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\cursor_pointerFlat.png.meta
+      projectPath: Assets\UI\cursor_pointerFlat.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\cursor_pointerFlat_shadow.png
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\cursor_pointerFlat_shadow.png
+      projectPath: Assets\UI\cursor_pointerFlat_shadow.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\cursor_pointerFlat_shadow.png.meta
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\cursor_pointerFlat_shadow.png.meta
+      projectPath: Assets\UI\cursor_pointerFlat_shadow.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\dotBlue.png
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\dotBlue.png
+      projectPath: Assets\UI\dotBlue.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\dotBlue.png.meta
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\dotBlue.png.meta
+      projectPath: Assets\UI\dotBlue.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\dotGreen.png
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\dotGreen.png
+      projectPath: Assets\UI\dotGreen.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\dotGreen.png.meta
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\dotGreen.png.meta
+      projectPath: Assets\UI\dotGreen.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\dotRed.png
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\dotRed.png
+      projectPath: Assets\UI\dotRed.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\dotRed.png.meta
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\dotRed.png.meta
+      projectPath: Assets\UI\dotRed.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\dotWhite.png
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\dotWhite.png
+      projectPath: Assets\UI\dotWhite.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\dotWhite.png.meta
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\dotWhite.png.meta
+      projectPath: Assets\UI\dotWhite.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\dotYellow.png
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\dotYellow.png
+      projectPath: Assets\UI\dotYellow.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\dotYellow.png.meta
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\dotYellow.png.meta
+      projectPath: Assets\UI\dotYellow.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\dot_shadow.png
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\dot_shadow.png
+      projectPath: Assets\UI\dot_shadow.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\dot_shadow.png.meta
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\dot_shadow.png.meta
+      projectPath: Assets\UI\dot_shadow.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\glassPanel.png
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\glassPanel.png
+      projectPath: Assets\UI\glassPanel.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\glassPanel.png.meta
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\glassPanel.png.meta
+      projectPath: Assets\UI\glassPanel.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\glassPanel_cornerBL.png
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\glassPanel_cornerBL.png
+      projectPath: Assets\UI\glassPanel_cornerBL.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\glassPanel_cornerBL.png.meta
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\glassPanel_cornerBL.png.meta
+      projectPath: Assets\UI\glassPanel_cornerBL.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\glassPanel_cornerBR.png
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\glassPanel_cornerBR.png
+      projectPath: Assets\UI\glassPanel_cornerBR.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\glassPanel_cornerBR.png.meta
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\glassPanel_cornerBR.png.meta
+      projectPath: Assets\UI\glassPanel_cornerBR.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\glassPanel_cornerTL.png
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\glassPanel_cornerTL.png
+      projectPath: Assets\UI\glassPanel_cornerTL.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\glassPanel_cornerTL.png.meta
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\glassPanel_cornerTL.png.meta
+      projectPath: Assets\UI\glassPanel_cornerTL.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\glassPanel_cornerTR.png
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\glassPanel_cornerTR.png
+      projectPath: Assets\UI\glassPanel_cornerTR.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\glassPanel_cornerTR.png.meta
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\glassPanel_cornerTR.png.meta
+      projectPath: Assets\UI\glassPanel_cornerTR.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\glassPanel_corners.png
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\glassPanel_corners.png
+      projectPath: Assets\UI\glassPanel_corners.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\glassPanel_corners.png.meta
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\glassPanel_corners.png.meta
+      projectPath: Assets\UI\glassPanel_corners.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\glassPanel_projection.png
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\glassPanel_projection.png
+      projectPath: Assets\UI\glassPanel_projection.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\glassPanel_projection.png.meta
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\glassPanel_projection.png.meta
+      projectPath: Assets\UI\glassPanel_projection.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\glassPanel_tab.png
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\glassPanel_tab.png
+      projectPath: Assets\UI\glassPanel_tab.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\glassPanel_tab.png.meta
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\glassPanel_tab.png.meta
+      projectPath: Assets\UI\glassPanel_tab.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\metalPanel.png
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\metalPanel.png
+      projectPath: Assets\UI\metalPanel.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\metalPanel.png.meta
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\metalPanel.png.meta
+      projectPath: Assets\UI\metalPanel.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\metalPanel_blue.png
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\metalPanel_blue.png
+      projectPath: Assets\UI\metalPanel_blue.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\metalPanel_blue.png.meta
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\metalPanel_blue.png.meta
+      projectPath: Assets\UI\metalPanel_blue.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\metalPanel_blueCorner.png
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\metalPanel_blueCorner.png
+      projectPath: Assets\UI\metalPanel_blueCorner.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\metalPanel_blueCorner.png.meta
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\metalPanel_blueCorner.png.meta
+      projectPath: Assets\UI\metalPanel_blueCorner.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\metalPanel_green.png
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\metalPanel_green.png
+      projectPath: Assets\UI\metalPanel_green.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\metalPanel_green.png.meta
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\metalPanel_green.png.meta
+      projectPath: Assets\UI\metalPanel_green.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\metalPanel_greenCorner.png
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\metalPanel_greenCorner.png
+      projectPath: Assets\UI\metalPanel_greenCorner.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\metalPanel_greenCorner.png.meta
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\metalPanel_greenCorner.png.meta
+      projectPath: Assets\UI\metalPanel_greenCorner.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\metalPanel_plate.png
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\metalPanel_plate.png
+      projectPath: Assets\UI\metalPanel_plate.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\metalPanel_plate.png.meta
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\metalPanel_plate.png.meta
+      projectPath: Assets\UI\metalPanel_plate.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\metalPanel_red.png
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\metalPanel_red.png
+      projectPath: Assets\UI\metalPanel_red.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\metalPanel_red.png.meta
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\metalPanel_red.png.meta
+      projectPath: Assets\UI\metalPanel_red.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\metalPanel_redCorner.png
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\metalPanel_redCorner.png
+      projectPath: Assets\UI\metalPanel_redCorner.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\metalPanel_redCorner.png.meta
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\metalPanel_redCorner.png.meta
+      projectPath: Assets\UI\metalPanel_redCorner.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\metalPanel_yellow.png
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\metalPanel_yellow.png
+      projectPath: Assets\UI\metalPanel_yellow.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\metalPanel_yellow.png.meta
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\metalPanel_yellow.png.meta
+      projectPath: Assets\UI\metalPanel_yellow.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\metalPanel_yellowCorner.png
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\metalPanel_yellowCorner.png
+      projectPath: Assets\UI\metalPanel_yellowCorner.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\metalPanel_yellowCorner.png.meta
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\metalPanel_yellowCorner.png.meta
+      projectPath: Assets\UI\metalPanel_yellowCorner.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\squareBlue.png
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\squareBlue.png
+      projectPath: Assets\UI\squareBlue.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\squareBlue.png.meta
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\squareBlue.png.meta
+      projectPath: Assets\UI\squareBlue.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\squareGreen.png
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\squareGreen.png
+      projectPath: Assets\UI\squareGreen.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\squareGreen.png.meta
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\squareGreen.png.meta
+      projectPath: Assets\UI\squareGreen.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\squareRed.png
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\squareRed.png
+      projectPath: Assets\UI\squareRed.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\squareRed.png.meta
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\squareRed.png.meta
+      projectPath: Assets\UI\squareRed.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\squareWhite.png
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\squareWhite.png
+      projectPath: Assets\UI\squareWhite.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\squareWhite.png.meta
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\squareWhite.png.meta
+      projectPath: Assets\UI\squareWhite.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\squareYellow.png
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\squareYellow.png
+      projectPath: Assets\UI\squareYellow.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\squareYellow.png.meta
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\squareYellow.png.meta
+      projectPath: Assets\UI\squareYellow.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\square_shadow.png
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\square_shadow.png
+      projectPath: Assets\UI\square_shadow.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\square_shadow.png.meta
+      fullPath: C:\Users\Maxim\Test Project\Assets\UI\square_shadow.png.meta
+      projectPath: Assets\UI\square_shadow.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: 7d9008e05b821ebaabd3de563b0bdd6500702b05
+    mergeA: 
+    mergeB: 
+    authorName: AdmiralSlowpoke
+    authorEmail: maksimzlt@gmail.com
+    commitEmail: maksimzlt@gmail.com
+    commitName: AdmiralSlowpoke
+    summary: Initial 2
+    description: Initial 2
+    timeString: 2020-08-10T18:28:34.000+05:00
+    commitTimeString: 2020-08-10T18:28:34.000+05:00
+    changes:
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\Maxim\Test Project\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\Maxim\Test Project\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: 1036bdee269a4ccdf0fae721ceb643eb927cc39f
+    mergeA: 
+    mergeB: 
+    authorName: AdmiralSlowpoke
+    authorEmail: maksimzlt@gmail.com
+    commitEmail: maksimzlt@gmail.com
+    commitName: AdmiralSlowpoke
+    summary: Initial 2
+    description: Initial 2
+    timeString: 2020-08-10T18:28:15.000+05:00
+    commitTimeString: 2020-08-10T18:28:15.000+05:00
+    changes:
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\Maxim\Test Project\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\Maxim\Test Project\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\Maxim\Test Project\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\Maxim\Test Project\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\Maxim\Test Project\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: 86edc5b1affb5dfc14ffce0adce177d02f88654e
     mergeA: 
     mergeB: 
