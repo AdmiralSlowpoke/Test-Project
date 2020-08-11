@@ -9,8 +9,8 @@ public class BoundCheck : MonoBehaviour
     private float _camHeight;
     private void Awake()
     {
-        _camHeight = Camera.main.orthographicSize;
-        _camWidth = _camHeight * Camera.main.aspect;
+        _camHeight = ScreenSizeInfo.ScreenHeight;
+        _camWidth = ScreenSizeInfo.ScreenWidth;
     }
     private void Update()
     {
