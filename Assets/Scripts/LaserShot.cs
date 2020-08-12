@@ -5,11 +5,11 @@ using UnityEngine;
 public class LaserShot : MonoBehaviour
 {
     // Start is called before the first frame update
-    public float speed;
+    public LaserShotContainer laserShot;
     private void FixedUpdate()
     {
-        transform.position += new Vector3(0, speed, 0) * Time.fixedDeltaTime;
-        if (transform.position.y >= ScreenSizeInfo.ScreenHeight)
+        transform.position += new Vector3(0, laserShot.speed, 0) * Time.fixedDeltaTime;
+        if (transform.position.y >= ScreenSizeInfo.ScreenHeight-1.5f)
             Destroy(this.gameObject);
     }
 }

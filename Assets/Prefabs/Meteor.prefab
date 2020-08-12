@@ -157,8 +157,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 402c9c043790b124bb833dc55a6ac9ba, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  meteorSpeed: 5
-  rotationSpeed: 3
+  meteor: {fileID: 11400000, guid: 8ff712ddae9e2374e8361d02fbb64573, type: 2}
+  explosion: {fileID: 6283474756462376011, guid: 633118dfabcdaaf4faf313ed314bb678,
+    type: 3}
+  explosionSound: {fileID: 8300000, guid: 444f6836a0ad9084cb03b30098eab019, type: 3}
 --- !u!61 &5633885281084084192
 BoxCollider2D:
   m_ObjectHideFlags: 0

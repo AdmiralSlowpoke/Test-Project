@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
@@ -6,30 +7,39 @@ using UnityEngine.UI;
 
 public class LevelButton : MonoBehaviour
 {
+    public Level level;
     private Text _buttonText;
-    public enum State {Complete,Open,Locked};//Статус кнопки
+
     private void Start()
     {
         _buttonText = gameObject.GetComponentInChildren<Text>();
+        SetLevelText(level.levelText);
+        if(Int32.Parse(level.levelText)> PlayerPrefs.GetInt("CompletedLevels"))
+            SetButtonStatus(Level.State.Locked);
+        if (Int32.Parse(level.levelText) == PlayerPrefs.GetInt("CompletedLevels")+1)
+            SetButtonStatus(Level.State.Open);
+        if(Int32.Parse(level.levelText) <= PlayerPrefs.GetInt("CompletedLevels"))
+            SetButtonStatus(Level.State.Complete);
+
     }
-    public void SetLevelText(int level)
+    public void SetLevelText(string level)
     {
-        _buttonText.text = level.ToString(); //Сеттер номера уровня
+        _buttonText.text = level; //Сеттер номера уровня
     }
-    public void SetButtonStatus(State status)//Установка статуса кнопки
+    public void SetButtonStatus(Level.State status)//Установка статуса кнопки
     {
         switch (status)
         {
-            case State.Complete:
+            case Level.State.Complete:
                 Button b = gameObject.GetComponent<Button>();
                 ColorBlock cb = b.colors;
                 cb.normalColor = Color.yellow;
                 b.colors = cb;
                 break;
-            case State.Open:
+            case Level.State.Open:
                 gameObject.GetComponent<Button>().interactable = true;
                 break;
-            case State.Locked:
+            case Level.State.Locked:
                 gameObject.GetComponent<Button>().interactable = false;
                 break;
 
@@ -37,6 +47,7 @@ public class LevelButton : MonoBehaviour
     }
     public void clickOnButton()
     {
+        PlayerPrefs.SetInt("Level", Int32.Parse(level.levelText));
         SceneManager.LoadScene("Game");
     }
 }
